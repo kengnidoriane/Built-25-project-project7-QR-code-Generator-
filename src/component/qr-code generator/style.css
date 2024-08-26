@@ -1,0 +1,15 @@
+.container-input {
+    margin-bottom: 5rem;
+}
+
+.container-input input {
+    padding: .5rem 1rem;
+    margin-right: 1rem;
+}
+
+.container-input button {
+    padding: .5rem 1rem ;
+    background-color: transparent;
+    color: #000;
+    border: 1px solid;
+}
