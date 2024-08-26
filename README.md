@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Project 7: QR Code Generator
+
+Doing a qr code generator is facilitated by react-qr-code.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
